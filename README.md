@@ -22,7 +22,4 @@ This repository contains 10 beginner-level C# console projects, built to practic
 - Loops, conditionals, lists, arrays
 - Menu-based logic and input validation
 
-## 🚀 What's Next
 
-This repo is part of my full journey to become a Full-Stack Developer (React + .NET).  
-Medium- and advanced-level projects will be uploaded in separate repositories.
