@@ -1,0 +1,15 @@
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\bin\Debug\net8.0\Console Unit Converter.exe
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\bin\Debug\net8.0\Console Unit Converter.deps.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\bin\Debug\net8.0\Console Unit Converter.runtimeconfig.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\bin\Debug\net8.0\Console Unit Converter.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\bin\Debug\net8.0\Console Unit Converter.pdb
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\Console Unit Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\Console Unit Converter.AssemblyInfoInputs.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\Console Unit Converter.AssemblyInfo.cs
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\Console Unit Converter.csproj.CoreCompileInputs.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\Console Unit Converter.sourcelink.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\Console Unit Converter.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\refint\Console Unit Converter.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\Console Unit Converter.pdb
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\Console Unit Converter.genruntimeconfig.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Console Unit Converter\Console Unit Converter\obj\Debug\net8.0\ref\Console Unit Converter.dll

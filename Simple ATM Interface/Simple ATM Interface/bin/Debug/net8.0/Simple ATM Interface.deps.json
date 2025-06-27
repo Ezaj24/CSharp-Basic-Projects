@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Simple ATM Interface/1.0.0": {
+        "runtime": {
+          "Simple ATM Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple ATM Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

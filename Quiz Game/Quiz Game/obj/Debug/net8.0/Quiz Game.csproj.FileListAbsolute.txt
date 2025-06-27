@@ -1,0 +1,15 @@
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.exe
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.deps.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.runtimeconfig.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.pdb
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.AssemblyInfoInputs.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.AssemblyInfo.cs
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.csproj.CoreCompileInputs.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.sourcelink.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\refint\Quiz Game.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.pdb
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.genruntimeconfig.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Quiz Game\Quiz Game\obj\Debug\net8.0\ref\Quiz Game.dll

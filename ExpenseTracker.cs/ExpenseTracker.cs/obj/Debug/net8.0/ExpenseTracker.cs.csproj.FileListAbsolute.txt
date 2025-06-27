@@ -1,0 +1,15 @@
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\bin\Debug\net8.0\ExpenseTracker.cs.exe
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\bin\Debug\net8.0\ExpenseTracker.cs.deps.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\bin\Debug\net8.0\ExpenseTracker.cs.runtimeconfig.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\bin\Debug\net8.0\ExpenseTracker.cs.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\bin\Debug\net8.0\ExpenseTracker.cs.pdb
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ExpenseTracker.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ExpenseTracker.cs.AssemblyInfoInputs.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ExpenseTracker.cs.AssemblyInfo.cs
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ExpenseTracker.cs.csproj.CoreCompileInputs.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ExpenseTracker.cs.sourcelink.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ExpenseTracker.cs.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\refint\ExpenseTracker.cs.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ExpenseTracker.cs.pdb
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ExpenseTracker.cs.genruntimeconfig.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\ExpenseTracker.cs\ExpenseTracker.cs\obj\Debug\net8.0\ref\ExpenseTracker.cs.dll

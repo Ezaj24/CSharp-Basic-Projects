@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple ATM Interface", "Simple ATM Interface\Simple ATM Interface.csproj", "{BCD9CF79-5172-415B-99CA-B2BDBF93EB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD9CF79-5172-415B-99CA-B2BDBF93EB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD9CF79-5172-415B-99CA-B2BDBF93EB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD9CF79-5172-415B-99CA-B2BDBF93EB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD9CF79-5172-415B-99CA-B2BDBF93EB19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008D6293-60EA-43A3-932E-9D8ADA3EE58E}
+	EndGlobalSection
+EndGlobal

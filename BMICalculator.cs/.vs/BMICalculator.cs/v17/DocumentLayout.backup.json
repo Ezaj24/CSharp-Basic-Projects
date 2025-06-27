@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AZAJ SHAIKH\\OneDrive\\Desktop\\Project C#\\BMICalculator.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A03AC05-8607-4021-A76C-F664D9321699}|BMICalculator.cs\\BMICalculator.cs.csproj|c:\\users\\azaj shaikh\\onedrive\\desktop\\project c#\\bmicalculator.cs\\bmicalculator.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A03AC05-8607-4021-A76C-F664D9321699}|BMICalculator.cs\\BMICalculator.cs.csproj|solutionrelative:bmicalculator.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AZAJ SHAIKH\\OneDrive\\Desktop\\Project C#\\BMICalculator.cs\\BMICalculator.cs\\Program.cs",
+              "RelativeDocumentMoniker": "BMICalculator.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\AZAJ SHAIKH\\OneDrive\\Desktop\\Project C#\\BMICalculator.cs\\BMICalculator.cs\\Program.cs",
+              "RelativeToolTip": "BMICalculator.cs\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:50:25.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

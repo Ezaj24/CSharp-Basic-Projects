@@ -1,0 +1,15 @@
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\bin\Debug\net8.0\Simple ATM Interface.exe
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\bin\Debug\net8.0\Simple ATM Interface.deps.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\bin\Debug\net8.0\Simple ATM Interface.runtimeconfig.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\bin\Debug\net8.0\Simple ATM Interface.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\bin\Debug\net8.0\Simple ATM Interface.pdb
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\Simple ATM Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\Simple ATM Interface.AssemblyInfoInputs.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\Simple ATM Interface.AssemblyInfo.cs
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\Simple ATM Interface.csproj.CoreCompileInputs.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\Simple ATM Interface.sourcelink.json
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\Simple ATM Interface.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\refint\Simple ATM Interface.dll
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\Simple ATM Interface.pdb
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\Simple ATM Interface.genruntimeconfig.cache
+C:\Users\AZAJ SHAIKH\OneDrive\Desktop\Project C#\Simple ATM Interface\Simple ATM Interface\obj\Debug\net8.0\ref\Simple ATM Interface.dll

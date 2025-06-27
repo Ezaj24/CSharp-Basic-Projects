@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AZAJ SHAIKH\\OneDrive\\Desktop\\Project C#\\Console Unit Converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86EDD974-A636-4090-9168-6173F73685ED}|Console Unit Converter\\Console Unit Converter.csproj|c:\\users\\azaj shaikh\\onedrive\\desktop\\project c#\\console unit converter\\console unit converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EDD974-A636-4090-9168-6173F73685ED}|Console Unit Converter\\Console Unit Converter.csproj|solutionrelative:console unit converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AZAJ SHAIKH\\OneDrive\\Desktop\\Project C#\\Console Unit Converter\\Console Unit Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Console Unit Converter\\Program.cs",
+              "ToolTip": "C:\\Users\\AZAJ SHAIKH\\OneDrive\\Desktop\\Project C#\\Console Unit Converter\\Console Unit Converter\\Program.cs",
+              "RelativeToolTip": "Console Unit Converter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:06:53.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
