@@ -22,4 +22,5 @@ This repository contains 10 beginner-level C# console projects, built to practic
 - Loops, conditionals, lists, arrays
 - Menu-based logic and input validation
 
+--------------------------------------
 
