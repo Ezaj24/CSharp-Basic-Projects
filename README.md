@@ -1,4 +1,4 @@
-## CSharp Basic Projects
+# CSharp Basic Projects
 
 This repository contains 10 beginner-level C# console projects, built to practice object-oriented programming, logic, and real-world problem solving.
 
